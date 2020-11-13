@@ -8,6 +8,7 @@ Andrey Ilyusin's pet project
 Сущности:
 public class Budget {
     private long id;
+    private String email;
     private int cash;
     private int deposit;
     private int loan;
